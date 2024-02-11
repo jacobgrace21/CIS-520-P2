@@ -1,4 +1,8 @@
 cmake_minimum_required(VERSION 2.8)
+# CMakeLists.txt
+# Created by: Unknown
+# Modified by: Jacob Grace 
+
 
 # ALL OF THE SPECIFIED NAMES IN THIS CMAKE ARE REQUIRED.
 # Set the project name variable to assignment3.
